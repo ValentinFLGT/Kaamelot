@@ -9,6 +9,7 @@ Displays random quote from the famous tv-show "Kaamelot" in the top-right corner
 
 - Download the repo
 - Drag and drop the "Kaamelot-Quote" folder into `YOUR_PROJECT_NAME/www/plugins`
+- Activate the plugin in your admin panel
 - Refresh your browser
 - Enjoy
 
